@@ -23,7 +23,7 @@
 - **ConstraintLayout** На данный момент это основной инструмент для создания разметки экранов. Ознакомиться можно с ним в [документации](https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout) или в уроках от startandroid [здесь(уроки 180-183)](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/489-urok-180-constraintlayout-osnovy.html) 
 
 #### Отображение изображений 
-- Есть 2 основные библиотеки которые помогают работать с изображниями: [picasso](https://square.github.io/picasso/) и [glide](https://github.com/bumptech/glide). Различий практически в них нет, разве что Пикассо не дружит с svg форматом. 
+- Есть 2 основные библиотеки которые помогают работать с изображниями: [picasso](https://square.github.io/picasso/) и [glide](https://github.com/bumptech/glide). Различий практически в них нет, разве что Пикассо не дружит с svg форматом. // но все же они есть, на звездочку задача разобрать в чем все-таки различия
 - Если нужно изменить форму изображения, то [вот](https://github.com/wasabeef/picasso-transformations)
 - [урок про пикассо](http://developer.alexanderklimov.ru/android/library/picasso.php)
 - погуглить про `ShapeableImageView`, в частности помогает отображать изображения круглыми
